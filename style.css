@@ -1,5 +1,5 @@
 body{
-  background-color: #2A292D;
-  color: #FEFEFE;
+  background-image: url(background.jpg);
+  background-attachment: fixed;
   font-family: 'Roboto';
 }
